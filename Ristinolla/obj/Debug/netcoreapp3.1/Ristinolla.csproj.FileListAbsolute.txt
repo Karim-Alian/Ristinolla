@@ -1,0 +1,12 @@
+C:\Users\karim\source\repos\Opiframe\Ristinolla\Ristinolla\bin\Debug\netcoreapp3.1\Ristinolla.exe
+C:\Users\karim\source\repos\Opiframe\Ristinolla\Ristinolla\bin\Debug\netcoreapp3.1\Ristinolla.deps.json
+C:\Users\karim\source\repos\Opiframe\Ristinolla\Ristinolla\bin\Debug\netcoreapp3.1\Ristinolla.runtimeconfig.json
+C:\Users\karim\source\repos\Opiframe\Ristinolla\Ristinolla\bin\Debug\netcoreapp3.1\Ristinolla.runtimeconfig.dev.json
+C:\Users\karim\source\repos\Opiframe\Ristinolla\Ristinolla\bin\Debug\netcoreapp3.1\Ristinolla.dll
+C:\Users\karim\source\repos\Opiframe\Ristinolla\Ristinolla\bin\Debug\netcoreapp3.1\Ristinolla.pdb
+C:\Users\karim\source\repos\Opiframe\Ristinolla\Ristinolla\obj\Debug\netcoreapp3.1\Ristinolla.csproj.CoreCompileInputs.cache
+C:\Users\karim\source\repos\Opiframe\Ristinolla\Ristinolla\obj\Debug\netcoreapp3.1\Ristinolla.AssemblyInfoInputs.cache
+C:\Users\karim\source\repos\Opiframe\Ristinolla\Ristinolla\obj\Debug\netcoreapp3.1\Ristinolla.AssemblyInfo.cs
+C:\Users\karim\source\repos\Opiframe\Ristinolla\Ristinolla\obj\Debug\netcoreapp3.1\Ristinolla.dll
+C:\Users\karim\source\repos\Opiframe\Ristinolla\Ristinolla\obj\Debug\netcoreapp3.1\Ristinolla.pdb
+C:\Users\karim\source\repos\Opiframe\Ristinolla\Ristinolla\obj\Debug\netcoreapp3.1\Ristinolla.genruntimeconfig.cache
